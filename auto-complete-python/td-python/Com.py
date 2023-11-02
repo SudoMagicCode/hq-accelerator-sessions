@@ -1,4 +1,11 @@
-import Lookup
+"""
+SudoMagic   | sudomagic.com
+Authors     | Matthew Ragan
+Contact     | 
+"""
+
+# td python mods
+# import Lookup
 
 
 class Com:
