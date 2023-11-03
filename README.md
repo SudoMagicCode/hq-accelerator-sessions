@@ -32,5 +32,5 @@ In this repo, examples cover the following:
 
 ## Feedback Techniques in TouchDesigner
 
-***Session Date***        |  TBD
-***Repo Directory***     |  `feedback-techniques`
+***Session Date***        |  TBD   
+***Repo Directory***     |  `feedback-techniques`   
