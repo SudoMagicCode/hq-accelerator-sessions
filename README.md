@@ -3,8 +3,8 @@ This repo is a collection of code made for accelerator sessions for the Interact
 
 ## Multi-Sample CHOPs
 
-***Session Date***        |  August 4th, 2022
-***Repo Directory***     |  `multi-sample-chops` 
+***Session Date***        |  August 4th, 2022  
+***Repo Directory***     |  `multi-sample-chops`    
 
 *Doing More with Fewer Nodes*
 
@@ -19,8 +19,8 @@ In this repo, examples cover the following:
 
 ## Auto Complete Python in TouchDesigner
 
-***Session Date***        |  November 8th, 2023
-***Repo Directory***     |  `auto-complete-python`
+***Session Date***        |  November 8th, 2023  
+***Repo Directory***     |  `auto-complete-python`   
 
 Working with Python in TouchDesigner can be its own challenge, even more so when you’re unable to take advantage of some of the best features of your code editor. In this session we’ll look at how you can get autocomplete working for your own Python modules in vsCode and how to make that play nice in TouchDesigner. This can help speed up your use of Python, and make it even easier to collaborate with other developers.
 
