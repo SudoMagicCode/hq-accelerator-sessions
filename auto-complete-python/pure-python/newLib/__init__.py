@@ -1,1 +1,1 @@
-from myHelpers import *
+from .myHelpers import *

@@ -1,6 +1,6 @@
 """
 SudoMagic | sudomagic.com
-Authors | Matthew Ragan, Ian Shelanskey
+Authors | Matthew Ragan  
 Contact | contact@sudomagic.com
 """
 
@@ -17,12 +17,14 @@ def Foo(arg1: int) -> float:
 
 # using a function from a single file
 my_val = example.FooFoo(3)
+print(my_val)
 
 # from a library
 now = myUtils.get_current_time()
 print(now.day)
 
 my_str = newLib.BarBar(1.0, "hello")
+print(my_str)
 
 myFlipFlop = newLib.FlipFlop()
 
